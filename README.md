@@ -1,1 +1,2 @@
 # Honnor-of-War
+Based in a ward time. You are part of a military convoy transporting sensitive documents. When your fleet was set upon by enemy forces. Despite your teams best effort, the enemy is able to overpower you; causing the entire fleet to crash. Somehow you manage to survive, but you notice that the crash site has been picked clean by the enemy. You find yourself behind enemy lines, sensitive battle plans stolen, and your entire team killed. Your goal is to find your way back to the base; while collecting the correspondence that the enemy stole along the way.
