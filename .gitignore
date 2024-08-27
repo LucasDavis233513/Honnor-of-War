@@ -72,5 +72,5 @@ crashlytics-build.properties
 /[Aa]ssets/[Ss]treamingAssets/aa/*
 
 # Ignore the mac system files
-.DS_Store
-.DS_store
+/.DS_Store/
+/.DS_store/
